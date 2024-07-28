@@ -1,4 +1,4 @@
-package com.javarush.task.task23.task2312;
+package Snake;
 
 public class SnakeSection {
     private int x;
