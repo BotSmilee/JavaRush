@@ -1,4 +1,4 @@
-package com.javarush.task.task21.task2113;
+package Hippodrome;
 
 public class Horse {
     public Horse(String name, double speed, double distance) {
