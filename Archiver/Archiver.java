@@ -1,6 +1,6 @@
-package com.javarush.task.task31.task3110;
+package Archiver;
 
-import com.javarush.task.task31.task3110.exception.WrongZipFileException;
+import Archiver.exception.WrongZipFileException;
 
 import java.io.IOException;
 
